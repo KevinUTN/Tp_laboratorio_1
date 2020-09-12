@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1599862558 source:c:\users\kyuuby\desktop\calculadora tp 2020\tp\tp_calculadora\biblioteca.c
+
+1599862558 source:c:\users\kyuuby\desktop\calculadora tp 2020\tp\tp_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1599862558 c:\users\kyuuby\desktop\calculadora tp 2020\tp\tp_calculadora\biblioteca.h
+
