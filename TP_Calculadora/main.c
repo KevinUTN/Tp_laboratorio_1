@@ -1,7 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "biblioteca.h"
+/*
+Alumno: Kevin Gustavo Camacho Ortiz
+Trabajo practico 1
+1:B
 
+*/
 int main()
 {
       //Variables
